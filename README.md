@@ -101,6 +101,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Contribution
 
-Contributions to this project are welcome. If you find any issues or have suggestions for improvements, please feel 
+Contributions to this project are welcome. If you find any issues or have suggestions for improvements, please feel free to open an issue or submit a pull request.
+
 Please ensure that your contributions adhere to the [OpenAI Contributor License Agreement](https://cla.openai.com/).
 By contributing to this project, you agree to license your contributions under the terms of the MIT License.
