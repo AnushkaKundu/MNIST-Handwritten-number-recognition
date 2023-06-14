@@ -93,8 +93,6 @@ The script provides a simple GUI interface using OpenCV, where users can draw a 
 7. Press 'c' to clear the canvas and draw a new digit.
 8. Press Esc to exit the GUI.
 
-Note: Make sure you have a webcam connected to your system, as the script uses OpenCV for GUI functionality.
-
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
