@@ -81,7 +81,7 @@ The script provides a simple GUI interface using OpenCV, where users can draw a 
 4. Run the following command:
 
    ```
-   python script.py
+   python MNISTdigit.py
    ```
 
    This will open a GUI window
